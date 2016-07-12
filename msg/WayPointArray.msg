@@ -1,0 +1,1 @@
+ngws_msgs/WayPoint[] waypoints
